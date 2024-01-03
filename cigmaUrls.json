@@ -1,4 +1,4 @@
 {
-	"TextToTextureUrl": "http://172.22.11.13:5002/text_to_image?text_content=",
-	"TextTo3DUrl": "http://172.22.11.13:5001/text_to_mesh?text_content="
+	"TextToTextureUrl": "https://5.imimg.com/data5/SELLER/Default/2021/8/JM/CB/WJ/126956708/texture-floor-tiles-500x500.jpg",
+	"TextTo3DUrl": "https://people.sc.fsu.edu/~jburkardt/data/obj/lamp.obj"
 }
